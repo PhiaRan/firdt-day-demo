@@ -1,1 +1,1 @@
-# firdt-day-demo
+# first-day-demo
